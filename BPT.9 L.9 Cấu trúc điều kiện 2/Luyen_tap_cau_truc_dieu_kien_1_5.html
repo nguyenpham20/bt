@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xếp hạng học lực</title>
+</head>
+<body>
+<script>
+    let kt = +parseInt(prompt("Nhập điểm bài kiểm tra"));
+    let tk = +parseInt(prompt("Nhập điểm thi giữa kỳ"));
+    let ck = +parseInt(prompt("Nhập điểm thi cuối kỳ"));
+    let td = (kt + tk + ck)/3;
+    if(td<5){
+        alert("Học lực yếu");
+    }else if(td<7){
+        alert("Học lực trung bình");
+    }else if(td<8.5){
+        alert("Học lực khá");
+    }else if(td<10){
+        alert("Học lực giỏi");
+    }
+</script>
+</body>
+</html>
