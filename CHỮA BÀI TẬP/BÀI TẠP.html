@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game puzzile</title>
+    <style>
+        #Image1{
+            width: 400px;
+            height: 200px;
+        }
+        #Image2{
+            width:400px;
+            height:200px;
+        }
+        #Image3{
+            width:400px;
+            height:200px;
+        }
+        #Image4{
+            width:400px;
+            height:200px;
+        }
+        #Image5{
+            width:400px;
+            height:200px;
+        }
+    </style>
+</head>
+<body>
+<img id="Image1" src="panda_swap_part1x1.jpg" alt="1" onclick="changeImage(1)"><br/>
+<img id="Image2" src="funny-cat1_part2x1.jpg" alt="2" onclick="changeImage(2);"><br/>
+<img id="Image3" src="panda_swap_part3x1.jpg" alt="1" onclick="changeImage(3);"><br/>
+<img id="Image4" src="funny-cat1_part4x1.jpg" alt="2" onclick="changeImage(4);"><br/>
+<img id="Image5" src="panda_swap_part5x1.jpg" alt="1" onclick="changeImage(5);">
+<script>
+    function changeImage(id) {
+        let img=document.getElementById("Image"+id);
+        if(img.alt =="1"){
+            img.alt = "2";
+            img.src="panda_swap_part"+id+"x1.jpg";
+        }else{
+            img.alt = "1";
+            img.src="funny-cat1_part"+id+"x1.jpg";
+        }
+        checkWin();
+    }
+    function checkWin(){
+        let img1 = document.getElementById("Image1").alt;
+        let img2 = document.getElementById("Image2").alt;
+        let img3 = document.getElementById("Image3").alt;
+        let img4 = document.getElementById("Image4").alt;
+        let img5 = document.getElementById("Image5").alt;
+
+        if(img1 == img2 && img2 == img3 && img3 == img4 && img4 == img5){
+            alert("Win");
+        }
+    }
+
+</script>
+
+</body>
+</html>

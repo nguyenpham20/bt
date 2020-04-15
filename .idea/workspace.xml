@@ -2,6 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1afe8bbe-bd9e-41fb-a65d-29fa569d3aed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BPT.11 L.11Cấu trúc vòng lặp 2/CauTrucLap2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/BPT.9 L.9 Cấu trúc điều kiện 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/May_tinh_co_ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/May_tinh_co_ban.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTT.10 L.10 Cấu trúc lặp 1/BTT.10 Cấu trúc lặp 1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTT.10 L.10 Cấu trúc lặp 1/BTT.10 Cấu trúc lặp 1/Su_dung_vong_lap_for_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHỮA BÀI TẬP/funny-cat1_part2x1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BPT.11 L.11Cấu trúc vòng lặp 2/CauTrucLap2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BPT.11 L.11Cấu trúc vòng lặp 2/CauTrucLap2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/Luyen_tap-cau_truc_dieu_kien_2_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/Luyen_tap-cau_truc_dieu_kien_2_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BPT.9 L.9 Cấu trúc điều kiện 2/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTT.10 L.10 Cấu trúc lặp 1/BTT.10 Cấu trúc lặp 1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BTT.10 L.10 Cấu trúc lặp 1/BTT.10 Cấu trúc lặp 1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table" beforeDir="false" afterPath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table/[Bài tập]Tạo bảng nâng cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTT.5 L.5 HTML Form&amp; Table/[Bài tập]Tạo bảng nâng cao.html" afterDir="false" />
@@ -20,7 +39,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BTT.7 L.7 Biến kiểu dữ liệu, Toán tử" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BPT.11 L.11Cấu trúc vòng lặp 2/CauTrucLap2" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1aHnBIBPMkcXFJTgklzNvRf0zD3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,13 +50,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MODULE 1\BPT.11 L.11Cấu trúc vòng lặp 2" />
+      <recent name="D:\MODULE 1\BTT.4 L.4 Git &amp; HTML" />
+      <recent name="D:\MODULE 1\BTT.10 L.10 Cấu trúc lặp 1" />
       <recent name="D:\MODULE 1\BPT.9 L.9 Cấu trúc điều kiện 2" />
     </key>
   </component>
@@ -58,7 +88,13 @@
       <workItem from="1586683589661" duration="9438000" />
       <workItem from="1586740872748" duration="9476000" />
       <workItem from="1586750494935" duration="2086000" />
-      <workItem from="1586758813999" duration="648000" />
+      <workItem from="1586758813999" duration="1583000" />
+      <workItem from="1586760473855" duration="16000" />
+      <workItem from="1586833394131" duration="2155000" />
+      <workItem from="1586853566594" duration="848000" />
+      <workItem from="1586854436367" duration="6000000" />
+      <workItem from="1586876267555" duration="5927000" />
+      <workItem from="1586913300440" duration="1365000" />
     </task>
     <servers />
   </component>
@@ -70,13 +106,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="779" y="106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586675908308" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586750470138">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586837919037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586750470138" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586758840763">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586837919037" />
+    <state x="492" y="85" key="RollbackChangesDialog" timestamp="1586854447978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586758840763" />
+    <state x="492" y="85" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586854447978" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586913301327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586913301327" />
   </component>
 </project>

@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Advance Calculator</title>
+    <style>
+        #calculator{
+
+            border-radius: 30px;
+            padding: 3px;
+            width: 172px;
+            border-radius: 6px;
+        }
+        button{
+            width: 40px;
+            height: 40px;
+            margin-bottom: 1px;
+            border-radius: 5px;
+        }
+        #screen{
+            width: 168px;
+            height: 60px;
+
+            text-align: right;
+
+            font-size: 30px;
+            margin-bottom: 10px;
+        }
+
+    </style>
+</head>
+<body>
+<div id="calculator">
+    <input id="screen">
+    <button onclick="clickNumber(7)">7</button>
+    <button onclick="clickNumber(8)">8</button>
+    <button onclick="clickNumber(9)">9</button>
+    <button onclick="clickNumber('+')">+</button>
+    <br>
+    <button onclick="clickNumber(4)">4</button>
+    <button onclick="clickNumber(5)">5</button>
+    <button onclick="clickNumber(6)">6</button>
+    <button onclick="clickNumber('-')">-</button>
+    <br>
+    <button onclick="clickNumber(1)">1</button>
+    <button onclick="clickNumber(2)">2</button>
+    <button onclick="clickNumber(3)">3</button>
+    <button onclick="clickNumber('*')">x</button>
+    <br>
+    <button onclick="clickNumber(0)">0</button>
+    <button onclick="clickNumber('.')">.</button>
+    <button id="equal" onclick="calculator()">=</button>
+    <button onclick="clickNumber('/')">/</button>
+    <br>
+</div>
+</body>
+<script src="May_tinh_co_ban.js">
+
+</script>
+</html>
